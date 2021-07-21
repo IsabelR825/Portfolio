@@ -1,5 +1,13 @@
+body{
+    background-color:aquamarine;
+}
+h1{
+    
+    text-align: center;
+}
+
 p {
-    color: turquoise;
+    color: darkblue;
     font-family: sans-serif;
     border-style: dashed;
     border-color: orange;
@@ -9,4 +17,15 @@ p {
 a {
     font-size: 10 px;
     color: purple;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+div{
+    position:relative;
+    left: 1000px;
+    bottom: 300px;
 }
