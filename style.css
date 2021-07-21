@@ -2,13 +2,13 @@ body{
     background-color:aquamarine;
 }
 h1{
-    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
 
 p {
     color: darkblue;
-    font-family: sans-serif;
+    font-family: "Wotfard",Futura,-apple-system,sans-serif;
     border-style: dashed;
     border-color: orange;
     border-width: 5 px;
@@ -22,10 +22,32 @@ a {
 img {
     height: 50%;
     width: 50%;
+    border:2px solid darkturquoise;
+    border-radius: 25px;
 }
 
-div{
+div {
     position:relative;
-    left: 1000px;
+    left: 500px;
     bottom: 300px;
+    border: 2px solid orange;
+    border-radius: 25 px;
+    padding: 10px;
+    background-color: yellow;
+    width:50%;
+}
+
+.about {
+    font-family: "Wotfard",Futura,-apple-system,sans-serif;
+}
+
+a {
+    border: 2px solid darkblue;
+    border-radius: 25px;
+    background-color:lightpink;
+    padding: 15px;
+    font-size: 20px;
+    position: relative;
+    bottom: 70px;
+    left: 60px;
 }
