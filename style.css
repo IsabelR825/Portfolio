@@ -1,0 +1,12 @@
+p {
+    color: turquoise;
+    font-family: sans-serif;
+    border-style: dashed;
+    border-color: orange;
+    border-width: 5 px;
+}
+
+a {
+    font-size: 10 px;
+    color: purple;
+}
