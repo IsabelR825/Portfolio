@@ -1,0 +1,4 @@
+a = input("Enter value a: ")
+b = input("Enter value b: ")
+c = input("Enter value c: ")
+

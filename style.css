@@ -3,6 +3,11 @@ h1 {
     color:cadetblue;
 }
 
+h3 {
+    color:royalblue;
+    font-family:"Wotfard", Futura, -apple-system, sans-serif;
+}
+
 body {
     background-color:khaki !important;
 }
