@@ -10,7 +10,7 @@ def form(a, b, c):
         formula = math.sqrt(x)
         print("X = " + str(formula))
     else: 
-        print("No  real Solution")
+        print("No Real Solution")
     
 
 form(a, b, c)

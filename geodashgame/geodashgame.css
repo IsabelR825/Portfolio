@@ -1,0 +1,6 @@
+img {
+    width: 200px !important;
+    height: 100px !important;
+    object-fit: cover;
+    transform: rotate(315deg);
+}

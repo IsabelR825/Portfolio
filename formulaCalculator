@@ -1,7 +1,0 @@
-a = input("Enter value a: ")
-b = input("Enter value b: ")
-c = input("Enter value c: ")
-
-print("A = " + a)
-print("B = " + b)
-print("C = " + c)
